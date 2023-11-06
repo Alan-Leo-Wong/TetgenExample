@@ -1,0 +1,12 @@
+*.obj
+*.off
+*.ply
+*.edge
+*.ele
+*.face
+*.mesh
+*.neigh
+*.node
+x64/
+.vs/
+!cube.ply
